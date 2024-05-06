@@ -1,4 +1,4 @@
-### Hi there 👋
+#### KDT 빅데이터 전문가 양성 과정 5기 반장, 명노아입니다
 
 <!--
 **noah2397/noah2397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
