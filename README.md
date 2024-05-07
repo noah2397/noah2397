@@ -14,7 +14,7 @@
 
 
 ### Data Engineer
-- I create site with blog posts - 블로그 주소 : [네이버 블로그](https://blog.naver.com/mathnoah)
+- I create site with blog posts - 블로그 주소 : [네이버 블로그](https://blog.naver.com/mathnoah)    
 - Also, View my portfolio at notion - 노션 주소 : [링크](https://shiny-loan-cad.notion.site/075669d09dc04cc0bb697e24ab539c34?pvs=4)
 
 
